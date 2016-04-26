@@ -1,0 +1,14 @@
+layout_spectrum: 0.8763441
+color:
+  saturation: 0.2329363
+  lightness: 0.8839526
+  brandStrength: 0.5221681
+  rhythmicContrast: 0.2095653
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+typography_spectrum: 0.8966552
+name: 'Stamps & History '
